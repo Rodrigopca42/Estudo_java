@@ -18,9 +18,13 @@ public class estudo1 {
 
         System.out.println("Idade= " + idade);
         System.out.println("Salario= " + String.format("%.2f", salario));
-        System.out.println("Altura= " + String.format("%.2f", altura));
+        extracted(altura);
         System.out.println("Genero= " + genero);
         System.out.println("Nome= " + nome);
 
+    }
+
+    private static void extracted(double altura) {
+        System.out.println("Altura= " + String.format("%.2f", altura));
     }
 }
