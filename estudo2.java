@@ -1,4 +1,6 @@
-public class estudo2 {
+
+
+public class Estudo2 {
     public static void main(String[] args) {
         
         int idade;

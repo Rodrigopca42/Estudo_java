@@ -1,6 +1,6 @@
 
 
-public class estudo1 {
+public class Estudo1 {
      public static void main(String[] args) {
         
         
@@ -17,7 +17,7 @@ public class estudo1 {
         nome = "Rodrigo Cardoso";
 
         System.out.println("Idade= " + idade);
-        System.out.println("Salario= " + String.format("%.2f", salario));
+        System.out.println("Salario= R$" + String.format("%.2f", salario));
         extracted(altura);
         System.out.println("Genero= " + genero);
         System.out.println("Nome= " + nome);
