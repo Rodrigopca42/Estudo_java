@@ -1,2 +1,2 @@
-# Estudo_java
- Estudo_de_desenvolvimento_em_java
+# estudo_java
+ estudo de tipos primitivos
